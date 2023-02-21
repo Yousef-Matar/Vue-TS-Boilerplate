@@ -1,4 +1,5 @@
 # Vue TypeScript Boilerplate
+Custom Linting configuration for Vue 3 with TypeScript Structure
 
 ## Project setup
 ```
@@ -19,3 +20,6 @@ npm run build
 ```
 npm run lint
 ```
+## Authors
+
+- [@Yousef Matar](https://www.github.com/Yousef-Matar)
