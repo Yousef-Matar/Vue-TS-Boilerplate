@@ -1,7 +1,7 @@
-import "@/assets/css/reset.css";
-
+// Reset Css
+import "@/assets/css/normalize.css";
+// Root Css
 import App from "@/App.vue";
-import "@/assets/css/animations.css";
 import "@/assets/css/root.css";
 import "@/registerServiceWorker";
 import router from "@/router";
